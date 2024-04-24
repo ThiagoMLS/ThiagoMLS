@@ -2,7 +2,7 @@
 # 👋 Olá, Rede!
 ## Meu nome é Thiago Serpa, sou apaixonado e fascinado no universo da tecnologia, sou interessado em construir uma carreira na área de Segurança da Informação, focando em aprender sobre Cybersegurança, Pentest e me atualizando sobre as mais diversas novidades digitais.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="200"/>
 
 
 ## Ferramentas e Tecnologias
