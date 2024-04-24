@@ -1,7 +1,6 @@
 
 # 👋 Olá, Rede!
-## Sou o Thiago Serpa 
-
+## Meu nome é Thiago Serpa, sou apaixonado e fascinado no universo da tecnologia, sou interessado em construir uma carreira na área de Segurança da Informação.
 
 ## Tecnologias :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="80" height="80"/>
