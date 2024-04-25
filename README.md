@@ -3,7 +3,7 @@
 ## My name is Thiago Serpa, I am 17 years old and I am passionate about technology, I am interested in working in the Information Security area, focusing on learning about Cybersecurity, Pentest and updating myself on modernizations.
 
 
-🔭 I’m currently studying on EEEP Leonel de Moura Brizola
+🔭 I’m currently studying on EEEP Leonel de Moura Brizola </br>
 🌱 I’m currently learning Cybersecurity, Pentest and Computer Network
 
 ## Contacts 
