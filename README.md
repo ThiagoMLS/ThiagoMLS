@@ -2,6 +2,10 @@
 # 👋 Hello, Network!
 ## My name is Thiago Serpa, I am 17 years old and I am passionate about technology, I am interested in working in the Information Security area, focusing on learning about Cybersecurity, Pentest and updating myself on modernizations.
 
+
+🔭 I’m currently studying on EEEP Leonel de Moura Brizola
+🌱 I’m currently learning Cybersecurity, Pentest and Computer Network
+
 ## Contacts 
 <div>
 <a href="https://www.linkedin.com/in/thiago-moreira-cybersecurity" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
