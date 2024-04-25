@@ -1,6 +1,6 @@
 
 # 👋 Olá, Rede!
-## Meu nome é Thiago Serpa, sou vidrado no universo da tecnologia, sou interessado em construir uma carreira na área de Segurança da Informação, focando em aprender sobre Cybersecurity, Pentest e me atualizando sobre as mais diversas novidades digitais.
+## Meu nome é Thiago Serpa, sou vidrado no universo da tecnologia, sou interessado em construir uma carreira na área de Segurança da Informação, focando em aprender sobre Cybersecurity, Pentest e me atualizando sobre as modernizações.
 
 
 ## Ferramentas e Tecnologias
