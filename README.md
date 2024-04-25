@@ -1,9 +1,9 @@
 
-# 👋 Olá, Rede!
-## Meu nome é Thiago Serpa, sou vidrado no universo da tecnologia, sou interessado em construir uma carreira na área de Segurança da Informação, focando em aprender sobre Cybersecurity, Pentest e me atualizando sobre as modernizações.
+# 👋 Hello, Network!
+## My name is Thiago Serpa, I am passionate about technology, I am interested in building a career in the Information Security area, focusing on learning about Cybersecurity, Pentest and updating myself on modernizations.
 
 
-## Ferramentas e Tecnologias
+## Tools and Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="80" height="80"/> &ensp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="80" height="80"/> &ensp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg"  width="80" height="80"/>  &ensp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100" height="100"/> &ensp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="120" height="120"/>
 
 
